@@ -67,9 +67,9 @@ Describe any challenges encountered while building the app.
     
  # Project 2 - Simple Tweet part 2
 
-**Name of your app** is an android app that allows a user to view his Twitter timeline and post a new tweet. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
+**Simple Tweet part 2** is an android app that allows a user to view his Twitter timeline and post a new tweet. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
@@ -110,7 +110,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='tweetpart2_walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 

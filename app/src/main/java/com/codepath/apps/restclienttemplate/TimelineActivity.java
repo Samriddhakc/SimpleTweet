@@ -1,29 +1,22 @@
 package com.codepath.apps.restclienttemplate;
-
 import android.os.Bundle;
 import android.util.Log;
-
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
-
 import com.codepath.apps.restclienttemplate.models.Tweet;
 import com.codepath.asynchttpclient.callback.JsonHttpResponseHandler;
-
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.parceler.Parcels;
-
 import java.util.ArrayList;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
 import android.content.Intent;
-
 import java.util.List;
-
 import okhttp3.Headers;
 
 public class TimelineActivity extends AppCompatActivity {

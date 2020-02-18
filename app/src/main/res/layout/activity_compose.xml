@@ -8,6 +8,7 @@
     tools:context=".ComposeActivity">
 
     <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/etParent"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:counterEnabled="true"
@@ -36,7 +37,7 @@
         android:id="@+id/btnTweet"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/etCompose"
+        android:layout_below="@+id/etParent"
         android:layout_alignParentEnd="true"
         android:layout_marginStart="5dp"
         android:layout_marginTop="5dp"
